@@ -65,16 +65,6 @@ This lab focuses on building and practicing state management patterns and best p
 
 ---
 
-## Usage
-
-Explore different state management techniques by creating components and experimenting with:
-- **useState**: For simple state handling within a component.
-- **useReducer**: To manage more complex state with actions.
-- **Context API**: Share state across multiple components without prop drilling.
-- **External Libraries (Optional)**: You can integrate libraries like Redux or Zustand.
-
----
-
 ## Folder Structure
 
 ```
