@@ -96,26 +96,3 @@ react-state-management-lab-main/
 
 ---
 
-## Development
-
-1. Create new components and practice with various state management methods.
-2. Use Vite’s hot reload feature to see changes immediately.
-3. Follow the existing linting rules to keep the codebase consistent:
-   ```bash
-   npm run lint
-   ```
-
----
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute:
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Commit your changes and open a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
